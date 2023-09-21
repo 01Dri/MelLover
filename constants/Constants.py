@@ -1,0 +1,13 @@
+import os
+
+URL_YOUTUBE_DEFAULT_MUSIC_SOLO_PC = "https://www.youtube.com/watch?v="
+URL_YOUTUBE_DEFAULT_MUSIC_SOLO_MOBAL = " https://youtu.be/"
+
+PATH_FOLDER_DOWNLOAD_MUSICS = "\\folder_for_download_musics"
+DEFAULT_PATH_FOLDER_MUSICS = "C:\\Users\\didvg\\Desktop\\MelLoverSOLID\\APP" + PATH_FOLDER_DOWNLOAD_MUSICS
+
+COLOR_FOR_EMBEDS = 0x87CEFA
+COLOR_FOR_EMBEDS_ERROR = 0xFF0000
+
+TITLE_EMBED_FOR_MUSIC = "Mel músicas"
+
